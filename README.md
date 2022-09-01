@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mosmn?tab=repositories](https://github.com/mosmn?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/mosmn?tab=repositories)
 
 - 💬 Ask me about **MERN, python, HTML/CSS/JS**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed osman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-osman-621624209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed osman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
