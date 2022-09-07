@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif">
 
 - 🌱 I’m currently learning **React native**
 
