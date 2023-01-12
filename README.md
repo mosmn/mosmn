@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
+<h3 align="center">A Full-stack software engineer</h3>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/mosmn?tab=repositories)
 
-- 💬 Ask me about **MERN, python, HTML/CSS/JS**
+- 💬 Ask me about **MERN, python, c++**
 
 - 📫 How to reach me **ithinkisee8@gmail.com**
 
