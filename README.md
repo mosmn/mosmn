@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mosmn?tab=repositories](https://github.com/mosmn?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/mosmn?tab=repositories)
 
 - 💬 Ask me about **Cloud applications**
 
