@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A Full-stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [Tic-Tac-Toe](https://github.com/mosmn/Tic-Tac-Toe)
+- 🔭 I’m currently working on [CV App]([https://github.com/mosmn/Tic-Tac-Toe](https://mosmn.github.io/CV-Application/))
 
 - 🌱 I’m currently learning **React**
 
