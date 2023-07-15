@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mosmn&row=1&column=7&" alt="mosmn" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mosmn&row=1&column=6&" alt="mosmn" />
   </a>
 </p>
 
