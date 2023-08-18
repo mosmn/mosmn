@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CV App](https://mosmn.github.io/CV-Application/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/mosmn?tab=repositories)
 
