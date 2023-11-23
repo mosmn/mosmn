@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/mosmn?tab=repositories)
 
-- 💬 Ask me about **Cloud applications**
+- 💬 Ask me about **Full-stack applications**
 
 - 📫 How to reach me **moswe4@gmail.com**
 
