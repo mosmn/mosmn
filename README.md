@@ -78,10 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosmn&" alt="mosmn" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosmn&show_icons=true&locale=en" alt="mosmn" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact" alt="mosmn" />
