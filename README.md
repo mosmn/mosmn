@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [](https://mosmn.me)
+- 👨‍💻 All of my projects are available at [mosmn.me](http://mosmn.me/)
 
 - 💬 Ask me about **Full-stack applications**
 
