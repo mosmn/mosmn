@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A Full-stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [CV App](https://mosmn.github.io/CV-Application/)
 
-- 🌱 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [mosmn.me](http://mosmn.me/)
-
-- 💬 Ask me about **Full-stack applications**
+- All of my projects are available at [mosmn.me](http://mosmn.me/)
 
 - 📫 How to reach me **mohamed@mosmn.me**
 
