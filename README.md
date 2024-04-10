@@ -4,7 +4,7 @@
 
 - All of my projects are available at [mosmn.me](http://mosmn.me/)
 
-- 📫 How to reach me **mohamed@mosmn.me**
+- How to reach me **mohamed@mosmn.me**
 
 
 ## Languages and Tools:
