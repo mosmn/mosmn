@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A Full-stack Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed. A Full-stack Software Engineer</h1>
 
 
-- All of my projects are available at [mosmn.me](http://mosmn.me/)
+<br/>
 
-- How to reach me **mohamed@mosmn.me**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosmn&" alt="mosmn" />
+</p>
 
 
-## Languages and Tools:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact" alt="mosmn" />
+</p>
 
 <p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -55,27 +58,5 @@
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-</p>
-
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosmn&" alt="mosmn" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact" alt="mosmn" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mosmn&row=1&column=6&" alt="mosmn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mosmn&label=Profile%20views&color=0e75b6&style=flat" alt="mosmn" />
 </p>
 
