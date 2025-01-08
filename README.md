@@ -99,11 +99,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosmn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
