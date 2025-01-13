@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/20955511/133943709-4d5f0433-0e0b-46e5-95bd-388c6fbf2f0a.gif" width="100%" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi, I'm Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <!-- Badges or Profile Counters -->
@@ -99,9 +99,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=mosmn&theme=dark&hide_border=true" 
+    alt="GitHub Streak for mosmn" 
+  />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" 
+    alt="Most Used Languages by mosmn" 
+    title="Most Used Languages" 
+  />
+</p>
+
 
 <!-- Optional: GitHub Trophies -->
 <!--
