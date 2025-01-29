@@ -19,7 +19,7 @@
 <p align="center">
   I'm a passionate <strong>Full-Stack Engineer</strong> experienced in designing, building, and scaling web applications.
   <br />
-  I love working with <strong>Python</strong>, <strong>Node.js</strong>, <strong>Go</strong>, <strong>React</strong>, and <strong>AWS</strong>, but I'm always exploring new technologies. 
+  I love working with <strong>Python</strong>, <strong>Node.js</strong>, <strong>React</strong>, and <strong>AWS</strong>, but I'm always exploring new technologies. 
 </p>
 
 ---
