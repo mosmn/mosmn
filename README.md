@@ -41,19 +41,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mosmn&theme=discord" alt="GitHub Trophies" />
 </p>
 -->
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mosmn/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohamed@mosmn.me" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://mosmn.me" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-</p>
-
----
