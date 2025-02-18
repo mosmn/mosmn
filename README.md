@@ -24,20 +24,3 @@
     alt="GitHub Streak for mosmn" 
   />
 </p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" 
-    alt="Most Used Languages by mosmn" 
-    title="Most Used Languages" 
-  />
-</p>
-
-
-<!-- Optional: GitHub Trophies -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mosmn&theme=discord" alt="GitHub Trophies" />
-</p>
--->
