@@ -7,14 +7,6 @@
 <h1 align="center">Hi, I'm Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-<!-- Badges or Profile Counters -->
-<p align="center">
-  <!-- Profile Visitors -->
-  <img src="https://komarev.com/ghpvc/?username=mosmn&label=Profile%20views&color=blueviolet" alt="Profile Views" />
-  <!-- Followers Badge -->
-<!--   <img src="https://img.shields.io/github/followers/mosmn?label=Followers" alt="GitHub Badge" /> -->
-</p>
-
 <!-- Short Bio -->
 <p align="center">
   I'm a passionate <strong>Full-Stack Engineer</strong> experienced in designing, building, and scaling web applications.
@@ -65,7 +57,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler</em>
-</p>
