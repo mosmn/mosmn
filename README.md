@@ -20,7 +20,7 @@
 <p align="center">
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=mosmn&theme=dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=mosmn&" 
     alt="GitHub Streak for mosmn" 
   />
 </p>
