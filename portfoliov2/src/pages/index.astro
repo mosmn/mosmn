@@ -11,9 +11,10 @@
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="apple-touch-icon" href="favicon.svg" />
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-      tailwind.config = {
+    <script is:inline src="https://cdn.tailwindcss.com"></script>
+    <script is:inline>
+      window.tailwind = window.tailwind || {};
+      window.tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
@@ -37,7 +38,7 @@
         },
         darkMode: "class",
       };
-    </script>
+    <script is:inline>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
