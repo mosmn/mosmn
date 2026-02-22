@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const posts = (
+  await getCollection("blog", ({ data }) => data.locale === "en" && !data.draft)
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Blog — Mohamed Osman"
+  description="Technical notes on web engineering, systems, and AI. "
+>
+  <h1>Blog</h1>
+  <div class="card-grid">
+    {
+      posts.map((post) => (
+        <article class="card">
+          <p class="meta">{post.data.pubDate.toDateString()}</p>
+          <h2>
+            <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+          </h2>
+          <p>{post.data.description}</p>
+        </article>
+      ))
+    }
+  </div>
+</BaseLayout>

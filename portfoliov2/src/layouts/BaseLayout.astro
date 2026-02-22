@@ -1,0 +1,53 @@
+---
+import "../styles/global.css";
+
+const { title, description } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+
+const labels = {
+  home: "Home",
+  projects: "Projects",
+  blog: "Blog",
+  about: "About",
+  contact: "Contact",
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical.href} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical.href} />
+    <meta property="og:site_name" content="Mohamed Osman Portfolio" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a href="/"><strong>Mohamed Osman</strong></a>
+        <nav class="nav-links" aria-label="Primary">
+          <a href="/">{labels.home}</a>
+          <a href="/projects">{labels.projects}</a>
+          <a href="/blog">{labels.blog}</a>
+          <a href="/about">{labels.about}</a>
+          <a href="/contact">{labels.contact}</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container">© {new Date().getFullYear()} Mohamed Osman</div>
+    </footer>
+  </body>
+</html>

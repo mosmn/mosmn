@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const projects = (
+  await getCollection(
+    "projects",
+    ({ data }) => data.locale === "en" && !data.draft,
+  )
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Projects — Mohamed Osman"
+  description="Case studies and project work by Mohamed Osman."
+>
+  <h1>Projects</h1>
+  <div class="card-grid">
+    {
+      projects.map((project) => (
+        <article class="card">
+          <h2>
+            <a href={`/projects/${project.slug}`}>{project.data.title}</a>
+          </h2>
+          <p>{project.data.description}</p>
+        </article>
+      ))
+    }
+  </div>
+</BaseLayout>
