@@ -13,8 +13,7 @@
 
     <script is:inline src="https://cdn.tailwindcss.com"></script>
     <script is:inline>
-      window.tailwind = window.tailwind || {};
-      window.tailwind.config = {
+      tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
@@ -38,7 +37,7 @@
         },
         darkMode: "class",
       };
-    <script is:inline>
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -867,7 +866,7 @@
       </footer>
     </div>
 
-    <script>
+    <script is:inline>
       const themeToggle = document.getElementById("theme-toggle");
       const html = document.documentElement;
 
@@ -961,6 +960,7 @@
     </script>
 
     <script
+      is:inline
       type="text/javascript"
       async
       src="//cdn.credly.com/assets/utilities/embed.js"
